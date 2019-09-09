@@ -1,3 +1,8 @@
+---
+layout: default
+title: hotman's homepage
+---
+
 #合宿:競技プログラミング 典型バチャ&解説:資料
 
 2日目　探索&DPアルゴリズム編<br>
