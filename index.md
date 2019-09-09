@@ -1,4 +1,4 @@
-# hotman's homepage
+#合宿:競技プログラミング 典型バチャ&解説:資料
 
 2日目　探索&DPアルゴリズム編<br>
 [二分探索](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_B)<br>
