@@ -1,7 +1,3 @@
----
-title: hotman's homepage
----
-
 #合宿:競技プログラミング 典型バチャ&解説:資料
 
 2日目　探索&DPアルゴリズム編<br>
@@ -28,7 +24,7 @@ title: hotman's homepage
 [F - Enclosed Points](https://atcoder.jp/contests/abc136/tasks/abc136_f)<br>
 [D - タコヤキオイシクナール](https://atcoder.jp/contests/arc008/tasks/arc008_4)<br>
 
-```c++:binary_search-1.cpp
+{% highlight c++ linenos %}
 #include<bits/stdc++.h>
 using namespace::std;
 typedef long long lint;
@@ -49,7 +45,7 @@ int main(){
     }
     cout<<cnt<<endl;
 }
-```
+{% endhighlight %}
 入力を受け取ってbinary_search(v.begin(),v.end(),val)でソート済み配列vの中にvalがあるかを調べます
 
 ```c++:binary_search-2.cpp

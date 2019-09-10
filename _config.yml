@@ -2,4 +2,5 @@ auto: true
 server: true
 encoding: utf-8
 markdown: kramdown
+pygments: true
 theme: jekyll-theme-cayman
