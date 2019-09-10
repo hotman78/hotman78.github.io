@@ -4,9 +4,4 @@ encoding: utf-8
 markdown: kramdown
 pygments: true
 highlighter: rougea
-<<<<<<< HEAD
-#theme: jekyll-theme-cayman
-=======
-
 theme: jekyll-theme-slate
->>>>>>> 151094c41c09e03d9bed47dc5efa0b646620a01c
