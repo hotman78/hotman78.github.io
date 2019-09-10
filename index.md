@@ -48,7 +48,7 @@ int main(){
 {% endhighlight %}
 入力を受け取ってbinary_search(v.begin(),v.end(),val)でソート済み配列vの中にvalがあるかを調べます
 
-```c++:binary_search-2.cpp
+{% highlight c++ linenos %}
 #pragma GCC optimize("Ofast")
 #include<bits/stdc++.h>
 using namespace::std;
@@ -82,10 +82,10 @@ int main(){
     }
     cout<<cnt<<endl;
 }
-```
+{% endhighlight %}
 自分で関数を作るならこう
 
-```c++:binary_search-3.cpp
+{% highlight c++ linenos %}
 #pragma GCC optimize("Ofast")
 #include<bits/stdc++.h>
 using namespace::std;
@@ -117,5 +117,5 @@ int main(){
     rep(i,m)cnt+=s.count(*istream_iterator<lint>(cin));
     cout<<cnt<<endl;
 }
-```
+{% endhighlight %}
 setとistream_iterator使うと楽に書ける
