@@ -120,3 +120,5 @@ int main(){
 }
 {% endhighlight %}
 setとistream_iterator使うと楽に書ける
+
+## bit全探索
