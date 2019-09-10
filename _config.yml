@@ -3,4 +3,5 @@ server: true
 encoding: utf-8
 markdown: kramdown
 pygments: true
+highlighter: rouge
 theme: jekyll-theme-cayman
