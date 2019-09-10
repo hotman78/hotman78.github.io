@@ -1,4 +1,4 @@
-#合宿:競技プログラミング 典型バチャ&解説:資料
+# 合宿:競技プログラミング 典型バチャ&解説:資料
 
 2日目　探索&DPアルゴリズム編<br>
 [二分探索](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_B)<br>
@@ -24,6 +24,7 @@
 [F - Enclosed Points](https://atcoder.jp/contests/abc136/tasks/abc136_f)<br>
 [D - タコヤキオイシクナール](https://atcoder.jp/contests/arc008/tasks/arc008_4)<br>
 
+## 二分探索
 {% highlight c++ linenos %}
 #include<bits/stdc++.h>
 using namespace::std;
