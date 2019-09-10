@@ -1,9 +1,0 @@
-auto: true
-server: true
-encoding: utf-8
-markdown: kramdown
-language: ja
-pygments: true
-highlighter: rougea
-theme: jekyll-theme-slate
-opf_meta: {"og:locale":"ja_JP"}
