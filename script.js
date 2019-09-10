@@ -1,5 +1,4 @@
 hljs.initHighlightingOnLoad();
-for(vari=0;i<6;i++)_close(i+1);
 function disp(path,index){
     $.get(path, function(data){
         $("#pre"+index).show();
