@@ -4,3 +4,5 @@ encoding: utf-8
 markdown: kramdown
 pygments: true
 highlighter: rougea
+
+theme: jekyll-theme-slate
